@@ -1,0 +1,34 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+/.dart_tool/
+/.idea/
+/*.iml
+/.gradle/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.package
+
+# Android
+*.apk
+*.ap_/
+*/build/
+**/local.properties
+
+# iOS
+DerivedData/
+Pods/
+*.xcworkspace
+
+# VSCode
+.vscode/
+
+# Misc
+.DS_Store
+*.log
+
+# Assets
+assets/offsets.json
+offsets_example.json
